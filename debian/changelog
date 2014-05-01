@@ -1,3 +1,10 @@
+finalterm (0.0-0~rzr0) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * http://rzr.online.fr/q/snapshot
+
+ -- Philippe Coval <rzr@gna.org>  Thu, 01 May 2014 22:41:59 +0200
+
 finalterm (0.1) precise; urgency=low
 
   * Initial Release.
